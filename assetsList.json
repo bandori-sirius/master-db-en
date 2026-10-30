@@ -1,8 +1,8 @@
 {
-  "resourceVersion": "1.1.0.103.34bb374a",
+  "resourceVersion": "1.1.0.104.a8170ed6",
   "platforms": {
     "Android": {
-      "catalog": "Android/catalog_1.1.0.103.34bb374a_en.bin",
+      "catalog": "Android/catalog_1.1.0.104.a8170ed6_en.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/Android/adv-chat-data_assets_adv-chat-data-001_tomorieverything_1ceb474fdf1d0897ed52095688a696dc.bundle",
@@ -54029,10 +54029,10 @@
           "size": 945613
         },
         {
-          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_a_kaibutsu_8d40a32c0cb7bc269f97480cf1a8e1fd.bundle",
-          "hash": "8d40a32c0cb7bc269f97480cf1a8e1fd",
-          "crc": 3575561100,
-          "size": 3889414
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_a_kaibutsu_1899d0b9d7da422b37856c2bcdfcb36b.bundle",
+          "hash": "1899d0b9d7da422b37856c2bcdfcb36b",
+          "crc": 559436405,
+          "size": 3867539
         },
         {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_a_kaibutsu_short_c78a6b3047590adecb2e8a315feee3de.bundle",
@@ -67127,16 +67127,16 @@
           "size": 931464
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_20_f47f0e9b8f9f6d021d2abef953209e30.bundle",
-          "hash": "f47f0e9b8f9f6d021d2abef953209e30",
-          "crc": 2167690252,
-          "size": 1167370
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_20_928ef1659510abd10e5ed0251093108c.bundle",
+          "hash": "928ef1659510abd10e5ed0251093108c",
+          "crc": 414212698,
+          "size": 1167369
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_21_a1567accc45a4d037098a0e1bcb45b58.bundle",
-          "hash": "a1567accc45a4d037098a0e1bcb45b58",
-          "crc": 1401264146,
-          "size": 1316595
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_21_bcd79e9ac083a7b611f6d6d8afc0a5e8.bundle",
+          "hash": "bcd79e9ac083a7b611f6d6d8afc0a5e8",
+          "crc": 1681936726,
+          "size": 1316600
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_2_7a5039629abe3d14aceca3d914b02798.bundle",
@@ -76589,9 +76589,9 @@
           "size": 817746
         },
         {
-          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_a827883ff059972a5efc32a774d22708.bundle",
-          "hash": "a827883ff059972a5efc32a774d22708",
-          "crc": 779466205,
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_b8ffa1949247cc00644446ba9d405d21.bundle",
+          "hash": "b8ffa1949247cc00644446ba9d405d21",
+          "crc": 3357172988,
           "size": 519336
         },
         {
@@ -80663,10 +80663,10 @@
           "size": 4800
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_f68c8d53e8fb38418a6f5b364d3c7c4d.bundle",
-          "hash": "f68c8d53e8fb38418a6f5b364d3c7c4d",
-          "crc": 1789070803,
-          "size": 10032
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_30f00d92cca924c05d9e7dd852786905.bundle",
+          "hash": "30f00d92cca924c05d9e7dd852786905",
+          "crc": 2219197964,
+          "size": 12060
         },
         {
           "internalId": "https://dummy.net/asset/Android/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -90648,7 +90648,7 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embbuildtempanchor_assets_all.bundle",
-          "hash": "4a0260e980460b9d74a18bb11c87d713",
+          "hash": "f8b10e77eeb72c579c402c747ab8707d",
           "crc": 0,
           "size": 83510
         },
@@ -90829,7 +90829,7 @@
       ]
     },
     "iOS": {
-      "catalog": "iOS/catalog_1.1.0.103.34bb374a_en.bin",
+      "catalog": "iOS/catalog_1.1.0.104.a8170ed6_en.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/iOS/adv-chat-data_assets_adv-chat-data-001_tomorieverything_f90b64a4fb592c0fc18e00335775cf71.bundle",
@@ -144856,10 +144856,10 @@
           "size": 945611
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_a_kaibutsu_dd8b7a29c64af8c9377489d32d4fb419.bundle",
-          "hash": "dd8b7a29c64af8c9377489d32d4fb419",
-          "crc": 251306108,
-          "size": 3889414
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_a_kaibutsu_3f312ff782915a2be25252b37c071b0b.bundle",
+          "hash": "3f312ff782915a2be25252b37c071b0b",
+          "crc": 2788923132,
+          "size": 3867539
         },
         {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_a_kaibutsu_short_8bfff564f2351298c1ffab8f7dae3f03.bundle",
@@ -157954,16 +157954,16 @@
           "size": 931464
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_20_02e5bc2b8e1d9bd6e27ea488eed23c01.bundle",
-          "hash": "02e5bc2b8e1d9bd6e27ea488eed23c01",
-          "crc": 2239787437,
-          "size": 1167370
+          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_20_dbc69baded90e5270c1b72103ae72ed5.bundle",
+          "hash": "dbc69baded90e5270c1b72103ae72ed5",
+          "crc": 3174471828,
+          "size": 1167369
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_21_321fd1fbbb79f88e00e9e0e8095217c9.bundle",
-          "hash": "321fd1fbbb79f88e00e9e0e8095217c9",
-          "crc": 3537577181,
-          "size": 1316595
+          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_21_a70fb69448ffc2d2f8b90fbdc81351f0.bundle",
+          "hash": "a70fb69448ffc2d2f8b90fbdc81351f0",
+          "crc": 167387811,
+          "size": 1316600
         },
         {
           "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_2_79e6eaf9d6381f0642b62b3ce74e0960.bundle",
@@ -167416,9 +167416,9 @@
           "size": 817746
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_10d949768fdd3863861c7097d79987fd.bundle",
-          "hash": "10d949768fdd3863861c7097d79987fd",
-          "crc": 2606798416,
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_b587bda4e9e09190279b02dc8af0eb20.bundle",
+          "hash": "b587bda4e9e09190279b02dc8af0eb20",
+          "crc": 469847021,
           "size": 519336
         },
         {
@@ -171490,10 +171490,10 @@
           "size": 4801
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_f68c8d53e8fb38418a6f5b364d3c7c4d.bundle",
-          "hash": "f68c8d53e8fb38418a6f5b364d3c7c4d",
-          "crc": 3372387240,
-          "size": 10032
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_30f00d92cca924c05d9e7dd852786905.bundle",
+          "hash": "30f00d92cca924c05d9e7dd852786905",
+          "crc": 2886285067,
+          "size": 12060
         },
         {
           "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -181475,9 +181475,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embbuildtempanchor_assets_all.bundle",
-          "hash": "4fc02e6aff47e12450489b1af77cd4a7",
+          "hash": "7fc93b623b35969944816e3f1dcd4afe",
           "crc": 0,
-          "size": 85365
+          "size": 85364
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
