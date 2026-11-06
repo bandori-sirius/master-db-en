@@ -1,8 +1,8 @@
 {
-  "resourceVersion": "1.1.0.300.2f7ad819",
+  "resourceVersion": "1.1.0.301.3d7eee12",
   "platforms": {
     "Android": {
-      "catalog": "Android/catalog_1.1.0.300.2f7ad819_en.bin",
+      "catalog": "Android/catalog_1.1.0.301.3d7eee12_en.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/Android/adv-chat-data_assets_adv-chat-data-001_tomorieverything_1ceb474fdf1d0897ed52095688a696dc.bundle",
@@ -78005,9 +78005,9 @@
           "size": 817746
         },
         {
-          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_8c3449af86b4cf7aca917a8ec67b23f6.bundle",
-          "hash": "8c3449af86b4cf7aca917a8ec67b23f6",
-          "crc": 3786441523,
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_864a8f07604407f7e63334af9680cbb2.bundle",
+          "hash": "864a8f07604407f7e63334af9680cbb2",
+          "crc": 1212824754,
           "size": 519336
         },
         {
@@ -82343,10 +82343,10 @@
           "size": 4800
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_ffcdce80039d19f7f72683035597a664.bundle",
-          "hash": "ffcdce80039d19f7f72683035597a664",
-          "crc": 2014260991,
-          "size": 24146
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_7294bbaa0d86534da5c8bc03a7ced09e.bundle",
+          "hash": "7294bbaa0d86534da5c8bc03a7ced09e",
+          "crc": 3578216775,
+          "size": 24722
         },
         {
           "internalId": "https://dummy.net/asset/Android/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -82355,10 +82355,10 @@
           "size": 1233
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_mingle.runtime.patch-1.1.0_0af3c410baa04ea0f4005ae0c13f3f08.bundle",
-          "hash": "0af3c410baa04ea0f4005ae0c13f3f08",
-          "crc": 1668484773,
-          "size": 3479
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_mingle.runtime.patch-1.1.0_2d69a126b6e2a0059f71bf699c6bc570.bundle",
+          "hash": "2d69a126b6e2a0059f71bf699c6bc570",
+          "crc": 2354207424,
+          "size": 3406
         },
         {
           "internalId": "https://dummy.net/asset/Android/seasonpass_assets_seasonpass_banner_banner_seasonpass_00001_1f14161266dd6d36bfb52be7ddc0eacb.bundle",
@@ -92556,7 +92556,7 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embbuildtempanchor_assets_all.bundle",
-          "hash": "9271445125974bd9cc1c5177c97af2bd",
+          "hash": "d8712abffdadc4122d71b1c35ba4b968",
           "crc": 0,
           "size": 83569
         },
@@ -92737,7 +92737,7 @@
       ]
     },
     "iOS": {
-      "catalog": "iOS/catalog_1.1.0.300.2f7ad819_en.bin",
+      "catalog": "iOS/catalog_1.1.0.301.3d7eee12_en.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/iOS/adv-chat-data_assets_adv-chat-data-001_tomorieverything_f90b64a4fb592c0fc18e00335775cf71.bundle",
@@ -170746,9 +170746,9 @@
           "size": 817746
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_3bba508638121671b7950f17328fa2ec.bundle",
-          "hash": "3bba508638121671b7950f17328fa2ec",
-          "crc": 2747338065,
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_a9e8e56e2a2d0e65cebb8f881eb75fdf.bundle",
+          "hash": "a9e8e56e2a2d0e65cebb8f881eb75fdf",
+          "crc": 3989799389,
           "size": 519336
         },
         {
@@ -175084,10 +175084,10 @@
           "size": 4801
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_ffcdce80039d19f7f72683035597a664.bundle",
-          "hash": "ffcdce80039d19f7f72683035597a664",
-          "crc": 668425844,
-          "size": 24146
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_7294bbaa0d86534da5c8bc03a7ced09e.bundle",
+          "hash": "7294bbaa0d86534da5c8bc03a7ced09e",
+          "crc": 752039840,
+          "size": 24722
         },
         {
           "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -175096,10 +175096,10 @@
           "size": 1233
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_mingle.runtime.patch-1.1.0_0af3c410baa04ea0f4005ae0c13f3f08.bundle",
-          "hash": "0af3c410baa04ea0f4005ae0c13f3f08",
-          "crc": 21500709,
-          "size": 3479
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_mingle.runtime.patch-1.1.0_2d69a126b6e2a0059f71bf699c6bc570.bundle",
+          "hash": "2d69a126b6e2a0059f71bf699c6bc570",
+          "crc": 3694978193,
+          "size": 3406
         },
         {
           "internalId": "https://dummy.net/asset/iOS/seasonpass_assets_seasonpass_banner_banner_seasonpass_00001_1f61cc844de23ad95225ef2f2c588801.bundle",
@@ -185297,9 +185297,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embbuildtempanchor_assets_all.bundle",
-          "hash": "fb385b68462a45f7f7f5dcc2b4316450",
+          "hash": "09deacb682fa410e7a2e43aa7c9a3693",
           "crc": 0,
-          "size": 85365
+          "size": 85364
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
